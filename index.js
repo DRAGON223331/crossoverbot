@@ -144,4 +144,4 @@ function helpEmbed() {
 }
 
 // ─── Login ────────────────────────────────────────────────────────────────────
-client.login(process.env.TOKEN);
+client.login('MTQwNjQ1MjM1MTkyOTQxNzcyOA.GIDFZs.5LdZs9YIVZ1AC6nntp5F0DWT9fO5hKiKbg5Bd8');
